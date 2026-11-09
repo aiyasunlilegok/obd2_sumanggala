@@ -1,0 +1,6 @@
+{
+  "name": "OBD2 Speedo",
+  "description": "Real-time OBD-II automotive digital cluster with engine temperature, RPM, battery voltage, GPS navigation split-screen, and safety alert system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

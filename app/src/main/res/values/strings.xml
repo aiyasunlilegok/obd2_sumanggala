@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OBD2 Speedo</string>
+    <string name="dashboard">Dasbor</string>
+    <string name="split_screen">Split Screen</string>
+    <string name="layout_customize">Tata Letak</string>
+    <string name="obd_connect">Koneksi OBD-II</string>
+    <string name="settings">Pengaturan</string>
+    <string name="engine_temp">Suhu Mesin</string>
+    <string name="rpm">RPM Mesin</string>
+    <string name="battery_volt">Tegangan Aki</string>
+    <string name="speed">Kecepatan</string>
+    <string name="throttle">Bukaan Gas</string>
+    <string name="intake_temp">Suhu Intake</string>
+    <string name="fuel_level">Bahan Bakar</string>
+    <string name="alert_engine_temp">PERINGATAN: Suhu Mesin Terlalu Tinggi!</string>
+    <string name="alert_high_rpm">PERINGATAN: Putaran RPM Melebihi Batas Redline!</string>
+    <string name="alert_battery_low">PERINGATAN: Tegangan Aki Melemah!</string>
+    <string name="alert_speed_limit">PERINGATAN: Melebihi Batas Kecepatan Maksimal!</string>
+</resources>
